@@ -1,4 +1,3 @@
-20 lines (14 sloc)  422 Bytes
 #bubble sort
 def bubble(array):
     for i in range(len(array)):
